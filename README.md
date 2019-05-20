@@ -35,10 +35,13 @@ Consistirá em uma tela simples, onde será exibido a câmera do celular, e um b
 O **target** utilizado na realidade aumentada, deverá ser este: 
 [![Target da Realidade Aumentada](https://github.com/whatsnext-digital/ar-interview-exam/blob/master/assets/whatsnext_marcador.jpg "Marcador da Realidade Aumentada")](https://github.com/whatsnext-digital/ar-interview-exam/blob/master/assets/whatsnext_marcador.jpg "Marcador da Realidade Aumentada")
 
-Ao apontar a câmera do celular para este Target, o vídeo baixado anteriormente deverá ser exibido, com as seguintes funcionalidades: 
+Ao apontar a câmera do celular para este Target, o vídeo baixado anteriormente deverá ser exibido, **em cima do target**, com as seguintes funcionalidades: 
 1. Ao tocar no vídeo, ele deverá ser pausado/despausado;
 2. Quando o target for perdido, o vídeo deverá ser pausado automáticamente;
-3. Quando o target for achado novamente, o vídeo deverá ser tocado automáticamente.
+3. Sempre que o target for achado, o vídeo deverá ser tocado, independente do estado anterior do vídeo(se estava ou não pausado).
+
+Segue um vídeo de como a Realidade Aumentada deverá ser:
+[![Realidade Aumentada no Cartão](https://img.youtube.com/vi/-S6WXpMKFwo/0.jpg)](https://www.youtube.com/watch?v=-S6WXpMKFwo)
 
 ## Sobre o exame
 Os aplicantes estão autorizados a usarem bibliotecas externas e montarem a estrutura da aplicação da forma que acharem melhor. Sinta-se livre para usar a internet para fazer pesquisas, mas não será permitido utilizar e/ou adaptar códigos/projetos da internet,  pois desta forma não conseguiremos avaliar sua habilidade técnica.
