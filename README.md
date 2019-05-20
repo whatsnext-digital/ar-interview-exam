@@ -26,7 +26,7 @@ as restante não serão necessárias.
 
  - Durante o download do vídeo, deverá ser mostrado para o usuário, uma tela de carregamento, com o progresso do download. Caso o download falhe, nessa mesma tela deverá ser exibido um  botão para tentar fazer o download novamente. 
  
-**Obs:** Após baixado, o vídeo deverá ser armazenado localmente, e na próxima vez que o usuário clicar no botão, o vídeo deverá ser carregado do Cache. 
+**Obs:** Após baixado, o vídeo deverá ser armazenado localmente, e na próxima vez que o usuário clicar no botão, o vídeo deverá ser carregado do Cache(**cache persistente**, ou seja, mesmo após reiniciar o App, o vídeo deverá ser obtido do cache). 
 
 
 ### Segunda Tela(Realidade Aumentada)
